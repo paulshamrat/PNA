@@ -1,6 +1,6 @@
-# List of Notebooks 
-Code Repository for Protein-Nucleic Acid complex
-# CODE REPOSITORY FOR PROTEIN-NUCLEIC ACID COMPLEX
+# List of Notebooks
+Code Repository for Protein-Nucleic Acid Complex
+
 - 240901 **Identity Match Given Seq PDB** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulshamrat/PNA/blob/main/240901-identity-match-given-seq-pdb.ipynb)
 
 - 240913 **Finding Seq Chain in PDB** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulshamrat/PNA/blob/main/240913-finding-seq-chain-in-pdb.ipynb)
